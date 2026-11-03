@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nvankien2k5-sketch/nodejs.hoidanit/issues"
   },
-  "homepage": "https://github.com/nvankien2k5-sketch/nodejs.hoidanit#readme"
+  "homepage": "https://github.com/nvankien2k5-sketch/nodejs.hoidanit#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
